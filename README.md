@@ -77,5 +77,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi-2619&show_icons=true&locale=en&layout=compact" alt="mansi-2619" />
 </p>
 ![Snake animation](https://raw.githubusercontent.com/Mansi-2619/Mansi-2619/output/github-snake.svg)
-![Snake animation dark](https://raw.githubusercontent.com/Mansi-2619/Mansi-2619/output/github-snake-dark.svg)
+
 
